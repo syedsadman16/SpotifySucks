@@ -7,15 +7,11 @@ HYO Team Scorpius recreating a Spotify Web Player with improved features. This i
 Quick Demo
 ***
 <img src='playlist.gif' title='Maps' width='' alt='Demo' />
-<br />
-<br />
 
 Multiplaylist:
 *Generates a new playlist based on unique tracks from several playlists*
 ***
 <img src='multiplaylist.jpg' title='Maps' width='' alt='Demo' /> 
-<br />
-<br />
 
 # BUILDING
 
